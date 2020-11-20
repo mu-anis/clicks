@@ -1,0 +1,16 @@
+{
+  "name": "clicks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "solution":"node index.js",
+    "start": "node index.js",
+    "test": "npm run test"
+  },
+  "keywords": [
+    "clicks"
+  ],
+  "author": "Anis",
+  "license": "ISC"
+}
